@@ -51,11 +51,11 @@ const NavBar = styled.nav`
       position: absolute;
       top: 60px;
       right: 0;
-      flex-direction: row;
+      flex-direction: column;
       background-color: ${(props) => props.theme.backgroundColor};
       color: ${(props) => props.theme.color};
       width: 100%;
-      padding: 1rem 0;
+      padding: 2rem;
       box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
       text-align: right;
     }

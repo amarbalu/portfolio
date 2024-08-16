@@ -65,7 +65,7 @@ function App() {
           color: selectedTheme.color,
         }}
       >
-        <Router>
+        <Router basename="/portfolio">
           <Header />
           <Routes>
             <Route path="/" element={<Introduction />} />

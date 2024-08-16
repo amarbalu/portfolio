@@ -10,9 +10,6 @@ const ToggleButton = styled.span`
   cursor: pointer;
   color: inherit;
   outline: none;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 
   &:hover {
     transform: scale(1.1);
