@@ -94,15 +94,3 @@ npm start
 
 ---
 
-This `README` will:
-- Impress hiring managers
-- Boost discoverability
-- Look professional on your GitHub
-
-Let me know if you want help:
-- Improving the UI/UX
-- Adding blog cards dynamically
-- Adding a light/dark toggle mode
-
-Let’s turn your portfolio repo into a full-fledged personal brand asset! 🚀
-```
