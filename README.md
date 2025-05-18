@@ -1,6 +1,6 @@
 ### ✅ README.md 
 
-```markdown
+
 # 💼 Amar Balu – Developer Portfolio
 
 Welcome to my personal developer portfolio!  
@@ -29,7 +29,7 @@ This portfolio is built to highlight:
 
 ---
 
-## 📁 Structure
+### 📁 Structure
 
 ```
 
@@ -90,7 +90,5 @@ npm start
 
 ⭐️ If you like it, feel free to fork and create your own version!
 
-```
 
----
 
